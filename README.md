@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wambitaliz
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning pythhon
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me wambitaiz@gmail.com
+- 📫 How to reach me wambitaliz@gmail.com
 
 <!---
 wambitaliz/wambitaliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
